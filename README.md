@@ -1,1 +1,1 @@
-# FinChinaGPT
+# OpenLLM
