@@ -11,7 +11,7 @@ Our experiments is based on the following repo:
 - [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)
 - [ChatGLM](https://github.com/THUDM/ChatGLM-6B)
 
-Thanks for their efforts to make the code and model weights public!
+Thanks for their efforts to make the code and model weights public.
 
 
 
