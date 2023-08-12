@@ -24,7 +24,7 @@ First, the data needs to be processed into a conversational form like this:
 ```
 The code is in the src folder and you need to modify the configuration in the shell script.
 
-#### fine-tune
+#### Fine-tune
 To fine-tune the model:
 
 ```
