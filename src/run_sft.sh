@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node 4 supervised_finetuning.py \
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node 4 sft.py \
     --model_type model_type \
     --model_name_or_path model_name_or_path \
     --train_file_dir ./data/fsa/train \
