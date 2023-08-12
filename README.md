@@ -6,14 +6,45 @@ Chinese Fine-Grained Financial Sentiment Analysis with Large Language Models
 <https://arxiv.org/abs/2306.14096>
 
 
+## Code
+First you need to process the data into the form of a question and answer pair. The code is in the src folder and you need to modify the configuration in the shell script.
+
+#### fine-tune
+To fine-tune the model:
+
+```
+sh sft.sh
+```
+
+
+#### Inference
+To run inference:
+
+```
+sh run_infer.sh
+```
+
 Our experiments is based on the following repo:
 - [Longformer-chinese](https://github.com/SCHENLIU/longformer-chinese)
 - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 - [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)
 - [ChatGLM](https://github.com/THUDM/ChatGLM-6B)
+- [MedicalGPT](https://github.com/shibing624/MedicalGPT)
 
 
 Thanks for their efforts to make the code and model weights public.
+
+## Citation
+If you find this project useful, please cite it using the following format
+
+```
+@article{lan2023chinese,
+  title={Chinese Fine-Grained Financial Sentiment Analysis with Large Language Models},
+  author={Lan, Yinyu and Wu, Yanru and Xu, Wang and Feng, Weiqiang and Zhang, Youhao},
+  journal={arXiv preprint arXiv:2306.14096},
+  year={2023}
+}
+```
 
 
 
