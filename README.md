@@ -1,5 +1,5 @@
 # FinChina SA
-The FinChina SA dataset from FinLLM@IJCAI'23 paper: 
+The FinChina SA dataset and code from FinLLM@IJCAI'23 paper: 
 
 **_Chinese Fine-Grained Financial Sentiment Analysis with Large Language Models_**
 
