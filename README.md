@@ -7,7 +7,22 @@ Chinese Fine-Grained Financial Sentiment Analysis with Large Language Models
 
 
 ## Code
-First you need to process the data into the form of a question and answer pair. The code is in the src folder and you need to modify the configuration in the shell script.
+First, the data needs to be processed into a conversational form like this:
+```
+{
+    "conversations":[
+        {
+            "from":"human",
+            "value":"question"
+        },
+        {
+            "from":"gpt",
+            "value":"answer"
+        }
+    ]
+}
+```
+The code is in the src folder and you need to modify the configuration in the shell script.
 
 #### fine-tune
 To fine-tune the model:
