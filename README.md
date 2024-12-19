@@ -3,7 +3,7 @@ The FinChina SA dataset and code from FinLLM@IJCAI'23 paper:
 
 **_Chinese Fine-Grained Financial Sentiment Analysis with Large Language Models_**
 
-<https://arxiv.org/abs/2306.14096>
+<https://link.springer.com/article/10.1007/s00521-024-10603-6>
 
 
 ## Code
