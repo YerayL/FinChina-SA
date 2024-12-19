@@ -53,11 +53,13 @@ Thanks for their efforts to make the code and model weights public.
 If you find this project useful, please cite it using the following format
 
 ```
-@article{lan2023chinese,
-  title={Chinese Fine-Grained Financial Sentiment Analysis with Large Language Models},
+@article{lan2024chinese,
+  title={Chinese fine-grained financial sentiment analysis with large language models},
   author={Lan, Yinyu and Wu, Yanru and Xu, Wang and Feng, Weiqiang and Zhang, Youhao},
-  journal={arXiv preprint arXiv:2306.14096},
-  year={2023}
+  journal={Neural Computing and Applications},
+  pages={1--10},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
